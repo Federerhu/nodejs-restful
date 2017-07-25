@@ -1,3 +1,3 @@
 # nodejs-restful
-npm init /n
+npm init ＜/br＞
 npm install router
